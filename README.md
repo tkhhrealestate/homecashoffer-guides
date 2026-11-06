@@ -1,0 +1,1 @@
+This repository hosts a HomeCashOffer resource guide on selling a Raleigh, North Carolina house with Wake County tax liens, HOA claims, and judgments, published as a simple GitHub Pages site for homeowners who need clear local context before they sell.
