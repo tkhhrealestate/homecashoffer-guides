@@ -2,5 +2,6 @@ This repository hosts a HomeCashOffer resource guide on selling a Raleigh, North
 
 - [Best Cash Home Buyers in Glendale, AZ (2027)](best-cash-home-buyers-glendale-az-2027.html)
 - [Best Cash Home Buyers in Irving, TX (2027)](best-cash-home-buyers-irving-tx-2027.html)
+- [Best Cash Home Buyers in Tampa, FL (2027)](best-cash-home-buyers-tampa-fl-2027.html)
 - [Indianapolis inherited house and probate](indianapolis-inherited-house-probate.html)
 - [Tampa liens and back taxes payoff order](tampa-liens-payoff-order.html)
