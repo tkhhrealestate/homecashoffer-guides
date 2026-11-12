@@ -5,3 +5,5 @@ This repository hosts a HomeCashOffer resource guide on selling a Raleigh, North
 - [Best Cash Home Buyers in Tampa, FL (2027)](best-cash-home-buyers-tampa-fl-2027.html)
 - [Indianapolis inherited house and probate](indianapolis-inherited-house-probate.html)
 - [Tampa liens and back taxes payoff order](tampa-liens-payoff-order.html)
+- [Sacramento Notice of Default, before the trustee sale](sacramento-notice-of-default-before-trustee-sale.html)
+- [Charlotte house fire: first week before you sell or rebuild](charlotte-house-fire-first-week.html)
